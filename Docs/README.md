@@ -1,1 +1,1 @@
-This stores documetns(PRF, Text, Markdown, Word, etc)
+This stores documents(PDF, Text, Markdown, Word, etc)
